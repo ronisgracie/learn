@@ -1,0 +1,1 @@
+from apihelper import infoimport __builtin__li = []print dir(li)print info(__builtin__, 20)
